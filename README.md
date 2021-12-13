@@ -1,1 +1,1 @@
-## Sistem que verifica o número de cédulas para determinado saque bancário.
+## Sistema que verifica o número de cédulas para determinado saque bancário.
